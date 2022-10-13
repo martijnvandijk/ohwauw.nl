@@ -1,0 +1,27 @@
+version: '3'
+
+services:
+  ohwauw:
+    image: ohwauw
+    build: ./ohwauw-app
+    restart: always
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.middlewares.ohwauw-https.redirectscheme.scheme=https"
+      - "traefik.http.routers.ohwauw-http.entrypoints=web"
+      - "traefik.http.routers.ohwauw-http.rule=Host(`ohwauw.nl`)"
+      - "traefik.http.routers.ohwauw-http.middlewares=ohwauw-https@docker"
+      - "traefik.http.routers.ohwauw.entrypoints=websecure"
+      - "traefik.http.routers.ohwauw.rule=Host(`ohwauw.nl`)"
+      - "traefik.http.routers.ohwauw.tls=true"
+      - "traefik.http.routers.ohwauw.tls.certresolver=default"
+      - "traefik.http.routers.ohwauw.service=ohwauw"
+      - "traefik.http.services.ohwauw.loadbalancer.server.port=8000"
+    networks:
+        - traefik-connect
+        - default
+  
+
+networks:
+  traefik-connect:
+    external: true
