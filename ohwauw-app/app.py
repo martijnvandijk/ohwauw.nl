@@ -1,5 +1,6 @@
 from flask import Flask, redirect, render_template, request
 from lines import lines
+from flask import jsonify
 import random
 app = Flask(__name__)
 
@@ -13,3 +14,9 @@ def getwauw():
     wauw = random.choice(lines)
     return wauw
 
+@app.route("/api/wauw/json", methods = ["GET"])
+def getwauw_json():
+    wauw = random.choice(lines)
+    return jsonify({
+        "wauw": wauw
+    })
