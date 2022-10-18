@@ -7,7 +7,7 @@ lines = [
     "¸¸♬·¯·♩¸¸♪·¯·♫¸¸ do the needfull ¸¸♬·¯·♩¸¸♪·¯·♫¸¸",
     "PUMA",
     "¯\_(ツ)_/¯",
-    "Mercury must be in retograde.",
+    "Mercury must be in retrograde.",
     "Oh wauw!",
     "Oh wauw, oh wauw, oh wauw!",
     "Error initializing smartkroket",
