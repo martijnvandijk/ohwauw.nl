@@ -1,7 +1,7 @@
-from flask import Flask, redirect, render_template, request
+from flask import Flask, redirect, render_template, request, jsonify
 from lines import lines
-from flask import jsonify
 import random
+
 app = Flask(__name__)
 
 @app.route("/", methods = ["GET"])
