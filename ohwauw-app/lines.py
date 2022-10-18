@@ -23,5 +23,11 @@ lines = [
     "certificate requests go brrrrrrr",
     "Are you positive?",
     "¸¸♬·¯·♩¸¸♪·¯·♫¸¸ Push the Botton ¸¸♬·¯·♩¸¸♪·¯·♫¸¸",
-    "I survived another meeting that should have been an email."
+    "I survived another meeting that should have been an email.",
+    "That's just wonderful.",
+    "queueueueue",
+    "When shit hits the fan, not everyone get's an evenly spread.",
+    "Urgent!!!!!",
+    "URGENT!!!!!",
+    "User did not reply. Closing ticket."
 ]
