@@ -29,5 +29,8 @@ lines = [
     "When shit hits the fan, not everyone get's an evenly spread.",
     "Urgent!!!!!",
     "URGENT!!!!!",
-    "User did not reply. Closing ticket."
+    "User did not reply. Closing ticket.",
+    "Let someone empty the bitbucket please!",
+    "Yes yes but actually no.",
+    "If you're caught fixing it you will be blamed for breaking it."
 ]
