@@ -32,5 +32,9 @@ lines = [
     "User did not reply. Closing ticket.",
     "Let someone empty the bitbucket please!",
     "Yes yes but actually no.",
-    "If you're caught fixing it you will be blamed for breaking it."
+    "If you're caught fixing it you will be blamed for breaking it.",
+    "Segregation of WHAT?",
+    "Ah well whatever.",
+    "Congratulations! You did not pass the test.",
+    "BLUE SCREEN OF D̴̸̪̝͇͈͔̗͓̤̻̞̙ͮ͒̅̏ͤ̅ͭ̓͊ͧ͒͡͡ͅȨ̣͉̥̺̱̬͇̥͎̟͓̱̺̜̯̳͇̄͌͗͋̍͆ͦͬ́ͩͣ̏͗̃̈͗ͨ̄͘͢ͅĀ̧̪͇̯̹͎̹͖̮̺̮̮̪̯̒ͧ̂̕ͅT̈́͒ͬ̔͟͏̭̠̻̖̫̠̹̰̲Ḥ̷̷̡̧̻̟̥̗̋ͫ͋"
 ]
