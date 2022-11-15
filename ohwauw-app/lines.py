@@ -37,5 +37,16 @@ lines = [
     "Ah well whatever.",
     "Congratulations! You did not pass the test.",
     "BLUE SCREEN OF D̴̸̪̝͇͈͔̗͓̤̻̞̙ͮ͒̅̏ͤ̅ͭ̓͊ͧ͒͡͡ͅȨ̣͉̥̺̱̬͇̥͎̟͓̱̺̜̯̳͇̄͌͗͋̍͆ͦͬ́ͩͣ̏͗̃̈͗ͨ̄͘͢ͅĀ̧̪͇̯̹͎̹͖̮̺̮̮̪̯̒ͧ̂̕ͅT̈́͒ͬ̔͟͏̭̠̻̖̫̠̹̰̲Ḥ̷̷̡̧̻̟̥̗̋ͫ͋",
-    "I � Unicode"
+    "I � Unicode",
+    "Task failed successfully!",
+    "A lack of planning on your side does not constitute an emergency on mine.",
+    "Technology will find ways to break in new, exciting ways!",
+    "Fur de Hurde!!!!",
+    "To prevent complaints about The Service, we will no longer be providing The Service.",
+    "Redundancy makes you fail twice.",
+    "Sometimes, the best part about my job is that my chair spins!",
+    "WAZAAA",
+    "There's no place like 127.0.0.1",
+    "There's no place like ::1",
+    "There's no place like ~/"
 ]
