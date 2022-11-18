@@ -48,5 +48,6 @@ lines = [
     "WAZAAA",
     "There's no place like 127.0.0.1",
     "There's no place like ::1",
-    "There's no place like ~/"
+    "There's no place like ~/",
+    "Failing to plan is planning to fail!"
 ]
