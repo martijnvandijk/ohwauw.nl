@@ -22,7 +22,7 @@ lines = [
     "PKI is dry. Please water the PKI.",
     "certificate requests go brrrrrrr",
     "Are you positive?",
-    "¸¸♬·¯·♩¸¸♪·¯·♫¸¸ Push the Botton ¸¸♬·¯·♩¸¸♪·¯·♫¸¸",
+    "¸¸♬·¯·♩¸¸♪·¯·♫¸¸ Push the Button ¸¸♬·¯·♩¸¸♪·¯·♫¸¸",
     "I survived another meeting that should have been an email.",
     "That's just wonderful.",
     "queueueueue",
