@@ -52,5 +52,7 @@ lines = [
     "Failing to plan is planning to fail!",
     "I expected nothing and you still managed to disappoint me.",
     "Customer servicedesk tried to reinstall and now it worksn't.",
-    "Keep on trying, you can do it."
+    "Keep on trying, you can do it.",
+    "Hou toch je rollback",
+    "If it ain't broken don't fix it."
 ]
