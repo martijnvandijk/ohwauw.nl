@@ -54,5 +54,6 @@ lines = [
     "Customer servicedesk tried to reinstall and now it worksn't.",
     "Keep on trying, you can do it.",
     "Hou toch je rollback",
-    "If it ain't broken don't fix it."
+    "If it ain't broken don't fix it.",
+    "Vroom vroom! Screeeech! Brrrrrmmmmm!"
 ]
