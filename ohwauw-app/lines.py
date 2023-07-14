@@ -55,5 +55,10 @@ lines = [
     "Keep on trying, you can do it.",
     "Hou toch je rollback",
     "If it ain't broken don't fix it.",
-    "Vroom vroom! Screeeech! Brrrrrmmmmm!"
+    "Vroom vroom! Screeeech! Brrrrrmmmmm!",
+    "You can't fix stupid.",
+    "You can't fix stupid. Well, actually you can but it's a bloody mess and higly illegal.",
+    "Ring ring ring ring ring ring ring / Banana phone! 🍌",
+    "Samir, you are breaking the car!",
+    "It's a phone with a peel!"
 ]
