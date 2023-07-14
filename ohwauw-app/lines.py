@@ -60,5 +60,6 @@ lines = [
     "You can't fix stupid. Well, actually you can but it's a bloody mess and highly illegal.",
     "Ring ring ring ring ring ring ring / Banana phone! 🍌",
     "Samir, you are breaking the car!",
-    "It's a phone with a peel!"
+    "It's a phone with a peel!",
+    "I got a bit heavy handed with the md device."
 ]
