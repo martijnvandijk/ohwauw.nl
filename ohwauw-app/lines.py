@@ -57,7 +57,7 @@ lines = [
     "If it ain't broken don't fix it.",
     "Vroom vroom! Screeeech! Brrrrrmmmmm!",
     "You can't fix stupid.",
-    "You can't fix stupid. Well, actually you can but it's a bloody mess and higly illegal.",
+    "You can't fix stupid. Well, actually you can but it's a bloody mess and highly illegal.",
     "Ring ring ring ring ring ring ring / Banana phone! 🍌",
     "Samir, you are breaking the car!",
     "It's a phone with a peel!"
