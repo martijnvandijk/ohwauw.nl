@@ -62,5 +62,6 @@ lines = [
     "Samir, you are breaking the car!",
     "It's a phone with a peel!",
     "I got a bit heavy handed with the md device.",
-    "Nom de Dieu de putain de bordel de merde de saloperie de connard d'enculé de ta mère!"
+    "Nom de Dieu de putain de bordel de merde de saloperie de connard d'enculé de ta mère!",
+    "done works"
 ]
