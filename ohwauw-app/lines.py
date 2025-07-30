@@ -63,5 +63,19 @@ lines = [
     "It's a phone with a peel!",
     "I got a bit heavy handed with the md device.",
     "Nom de Dieu de putain de bordel de merde de saloperie de connard d'enculé de ta mère!",
-    "done works"
+    "done works",
+    "Ik decrypt je helemaal de moeder",
+    "Ik escaleer je de moeder",
+    "They did the needfull and it worked!",
+    "blieperdebloep",
+    "ID10T error",
+    "Investigated the problem and found a wetware error",
+    "BINGO!",
+    "critical error - no synchrony",
+    "0118999881999119725       3",
+    "Und jetzt reiß ich der Kunde den Kopf ab \
+     Ja, ich reiß der Kunde den Kopf ab \
+    Und dann beiß ich der Kunde den Hals ab\
+    Jetzt geht es mir gut, ja"
+ 
 ]
