@@ -76,6 +76,7 @@ lines = [
     "Und jetzt reiß ich der Kunde den Kopf ab \
      Ja, ich reiß der Kunde den Kopf ab \
     Und dann beiß ich der Kunde den Hals ab\
-    Jetzt geht es mir gut, ja"
+    Jetzt geht es mir gut, ja",
+    "Being stupid is only painful for others"
  
 ]
