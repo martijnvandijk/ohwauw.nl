@@ -78,6 +78,6 @@ lines = [
     Und dann beiß ich der Kunde den Hals ab \n \
     Jetzt geht es mir gut, ja",
     "Being stupid is only painful for others",
-    "Turbo Turbo!
+    "Turbo Turbo!"
  
 ]
