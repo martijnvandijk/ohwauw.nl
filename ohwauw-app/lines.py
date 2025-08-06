@@ -73,11 +73,8 @@ lines = [
     "BINGO!",
     "critical error - no synchrony",
     "0118999881999119725       3",
-    "Und jetzt reiß ich der Kunde den Kopf ab \n \
-     Ja, ich reiß der Kunde den Kopf ab  \n \
-    Und dann beiß ich der Kunde den Hals ab \n \
-    Jetzt geht es mir gut, ja",
-    "Being stupid is only painful for others",
+    "Und jetzt reiß ich der Kunde den Kopf ab / Ja, ich reiß der Kunde den Kopf ab / Und dann beiß ich der Kunde den Hals ab / Jetzt geht es mir gut, ja",
+    "The best thing about being stupid is that it's only painful for others",
     "Turbo Turbo!"
  
 ]
