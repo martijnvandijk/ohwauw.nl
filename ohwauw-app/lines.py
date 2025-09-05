@@ -75,6 +75,11 @@ lines = [
     "0118999881999119725       3",
     "Und jetzt reiß ich der Kunde den Kopf ab / Ja, ich reiß der Kunde den Kopf ab / Und dann beiß ich der Kunde den Hals ab / Jetzt geht es mir gut, ja",
     "The best thing about being stupid is that it's only painful for others",
-    "Turbo Turbo!"
- 
+    "Turbo Turbo!",
+    "I have released the user from the PKI portal!",
+    "One of us is stupid, and it is not me.",
+    "User is stuck in PKI portal. Please release the user from the PKI portal.",
+    "Als het is wat het is, dan is het wat het is",
+    "The road to hell is paved with good intentions.",
+    "Thank you for not submitting the request ahead of the project. The cake can be sent to: <insert address here>"
 ]
