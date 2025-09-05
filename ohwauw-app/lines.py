@@ -81,5 +81,8 @@ lines = [
     "User is stuck in PKI portal. Please release the user from the PKI portal.",
     "Als het is wat het is, dan is het wat het is",
     "The road to hell is paved with good intentions.",
-    "Thank you for not submitting the request ahead of the project. The cake can be sent to: <insert address here>"
+    "Thank you for not submitting the request ahead of the project. The cake can be sent to: <insert address here>",
+    "make it rain (permissions)",
+    "001011001",
+    "01001100 01010101 01001100"
 ]
