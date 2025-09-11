@@ -84,5 +84,6 @@ lines = [
     "Thank you for not submitting the request ahead of the project. The cake can be sent to: <insert address here>",
     "make it rain (permissions)",
     "001011001",
-    "01001100 01010101 01001100"
+    "01001100 01010101 01001100",
+    "Not today."
 ]
