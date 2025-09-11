@@ -85,5 +85,6 @@ lines = [
     "make it rain (permissions)",
     "001011001",
     "01001100 01010101 01001100",
-    "Not today."
+    "Not today.",
+    "Als het niet gaat zoals het moet, dan moet het maar zoals het gaat."
 ]
