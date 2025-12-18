@@ -86,5 +86,9 @@ lines = [
     "001011001",
     "01001100 01010101 01001100",
     "Not today.",
-    "Als het niet gaat zoals het moet, dan moet het maar zoals het gaat."
+    "Als het niet gaat zoals het moet, dan moet het maar zoals het gaat.",
+    "I think I understand, but that might be the confusion kicking in.",
+    "I put on my BOFH hat.",
+    "I forgot to drink my coffee because I did not have my coffee yet.",
+    "If you can't convince them, confuse them!"
 ]
