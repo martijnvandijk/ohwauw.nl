@@ -90,5 +90,6 @@ lines = [
     "I think I understand, but that might be the confusion kicking in.",
     "I put on my BOFH hat.",
     "I forgot to drink my coffee because I did not have my coffee yet.",
-    "If you can't convince them, confuse them!"
+    "If you can't convince them, confuse them!",
+    "IHAMBIDUI (I Have a Manual But I Don't Use It)"
 ]
