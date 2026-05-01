@@ -12,7 +12,7 @@ def ohwauw():
 @app.route("/wauw", methods = ["GET"])
 def specificwauw():
     line = request.args.get('wauw', default = -1, type=int)
-    if line = -1:
+    if line == -1:
         wauw = random.choice(lines)
     else:
         wauw = lines[line]
@@ -29,3 +29,12 @@ def getwauw_json():
     return jsonify({
         "wauw": wauw
     })
+
+@app.route("/wauw/all", methods = ["GET"])
+def getwauw_all():
+    response = ""
+    line = 0
+    for wauw in lines:
+        response = response + str(line) + "\t" + wauw + "<br>"
+        line += 1
+    return response
