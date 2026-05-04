@@ -91,5 +91,13 @@ lines = [
     "I put on my BOFH hat.",
     "I forgot to drink my coffee because I did not have my coffee yet.",
     "If you can't convince them, confuse them!",
-    "IHAMBIDUI (I Have a Manual But I Don't Use It)"
+    "IHAMBIDUI (I Have a Manual But I Don't Use It)",
+    "System behaves inconsistently, but consistently so.",
+    "Helpdesk added comment. Clarity decreased.",
+    "User clicked everything. System responded accordingly.",
+    "Ticket contains many words, none of them helpful.",
+    "Issue resolved itself after sufficient confusion.",
+    "The logs are very clear: something is wrong.",
+    "The system is down, but morale is high.",
+    "Please advise. (I will ignore your advice.)"
 ]
