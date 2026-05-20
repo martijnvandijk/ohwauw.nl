@@ -99,5 +99,6 @@ lines = [
     "Issue resolved itself after sufficient confusion.",
     "The logs are very clear: something is wrong.",
     "The system is down, but morale is high.",
-    "Please advise. (I will ignore your advice.)"
+    "Please advise. (I will ignore your advice.)",
+    "brother, have I ever oopsied your system?"
 ]
