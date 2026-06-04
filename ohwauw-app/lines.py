@@ -101,5 +101,6 @@ lines = [
     "The system is down, but morale is high.",
     "Please advise. (I will ignore your advice.)",
     "brother, have I ever oopsied your system?",
-    "Vert der Ferk‽"
+    "Vert der Ferk‽",
+    "I put on my Security Insultant hat."
 ]
